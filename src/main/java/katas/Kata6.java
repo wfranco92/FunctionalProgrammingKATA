@@ -3,12 +3,8 @@ package katas;
 import model.BoxArt;
 import model.Movie;
 import util.DataUtil;
-
-import javax.swing.text.Element;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 /*
     Goal: Retrieve the url of the largest boxart using map() and reduce()
